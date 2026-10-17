@@ -1,0 +1,7 @@
+﻿python.exe : Python 
+At line:1 char:335
++ ...  = "utf-8"; python.exe -m streamlit run wrting_coach_app.py 2>&1 | Ou ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Python :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
